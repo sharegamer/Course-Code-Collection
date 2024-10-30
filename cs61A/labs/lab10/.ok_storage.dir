@@ -1,0 +1,6 @@
+'What Would Scheme Display?-correct', (0, 70)
+'What Would Scheme Print?-correct', (512, 70)
+'over-or-under-correct', (1024, 70)
+'make-adder-correct', (1536, 70)
+'composed-correct', (2048, 70)
+'make-list-correct', (2560, 70)
